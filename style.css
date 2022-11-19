@@ -1,3 +1,9 @@
+/*** large device only***/
+@media (min-width: 1200px){
+  body{
+    width:80%;
+  }
+}
 body{
     background-color: pink;
     font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
